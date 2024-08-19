@@ -1,4 +1,4 @@
-# Simon Game
+# The Simon Game
 
 Welcome to the **Simon Game** website! This project is a web-based implementation of the classic memory game "Simon," where players must remember and repeat a sequence of colors.
 
